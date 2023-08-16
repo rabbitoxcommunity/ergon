@@ -1,0 +1,1506 @@
+@media only screen and (max-width: 768px) {
+        .swiper-button-next, .swiper-rtl .swiper-button-prev {
+        right: 0 !important;
+    }
+    .swiper-button-prev, .swiper-rtl .swiper-button-next {
+        left: 0 !important;
+    }
+    .sm-height-banner{
+        min-height: 500px;
+    }
+    .sm-height-banner{
+        min-height: 500px;
+    }
+    section.ergon__products .border-section{
+       
+    width: 90%;
+    margin: 0 auto;
+
+    }
+    section.ergon__products .power__converter p {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+
+   
+
+    .banner__grid {
+        height: 100vh;
+        display: flex;
+        align-items: start;
+        justify-self: start
+    }
+
+    canvas {
+        z-index: -1;
+        height: 100vh !important;
+        bottom: 0 !important;
+        width: 100% !important;
+        object-fit: cover !important;
+        position: fixed !important;
+    }
+
+    .accordion-body {
+        padding: 10px;
+    }
+
+    #page {
+        position: relative;
+        height: 0px;
+        width: 100vw;
+    }
+
+
+
+    section.ergon__slider .slider-text {
+        padding: 30px;
+    }
+
+    section.ergon__slider .slider-content {
+        margin-top: 50px;
+    }
+
+    .join__journey {
+        min-height: auto;
+        width: 87%;
+        margin: 0 auto;
+        margin-top: 30px;
+        padding: 37px;
+    }
+
+    /* HOME PAGE */
+
+    #page>h1 {
+        z-index: 99;
+        font-size: 50px;
+        font-size: 43px;
+        line-height: 50px;
+        letter-spacing: -0.03em;
+        text-align: left;
+        font-weight: bold;
+        margin-left: 29px;
+        width: 95%;
+    }
+
+    .content__grid.w-60 {
+        width: 100%;
+        display: grid;
+        grid-template-columns: repeat(1, 100%);
+    }
+
+    .content__grid {
+        display: grid;
+        grid-template-columns: repeat(1, 95%);
+    }
+
+    .content__grid.first_anim {
+        width: 100%;
+        padding-top: 38%;
+    }
+
+    p#textMessg {
+        width: 84%;
+    }
+
+    .content__grid {
+        width: 95%;
+        padding-top: 30%;
+    }
+
+    #page>p {
+        position: absolute;
+        top: 51%;
+        font-size: 17px;
+        line-height: 28px;
+        letter-spacing: -0.03em;
+        text-align: left;
+        margin-left: 33px;
+        width: 83%;
+        margin-bottom: 0;
+    }
+
+    .content__grid>h1 {
+        z-index: 99;
+        text-align: left;
+        font-weight: bold;
+        width: 95%;
+    }
+
+    .content__grid>p {
+        font-size: 17px;
+        line-height: 26px;
+        letter-spacing: -0.03em;
+        text-align: left;
+        margin-left: 33px;
+        width: 90%;
+        margin-bottom: 0;
+        margin-left: 20px;
+    }
+
+    img.ergon-ipc {
+        width: 80% !important;
+    }
+
+    .content__grid h1 {
+        font-size: 35px;
+        line-height: 43px;
+        letter-spacing: -0.03em;
+        padding: 5px 0;
+        margin-left: 20px;
+    }
+
+    .content__grid>h5 {
+        font-size: 27px;
+        margin-left: 20px;
+    }
+
+    .slider-img img {
+        border-radius: 0px 0px 10px 10px;
+        height: 242px;
+    }
+
+
+
+    /* END */
+    .animation {
+        height: 50vh;
+        background: #000;
+    }
+
+    section.ergon__slider {
+        padding-top: 0;
+    }
+
+    .header {
+        padding: 0 20px;
+    }
+
+    section.ergon__products .power__converter h1 {
+        font-size: 38px;
+        font-weight: 600;
+    }
+
+    section.ergon__products .power__converter img {
+        width: 100%;
+    }
+
+    .center__figure img {
+        width: 100%;
+            margin-top: 28%;
+    }
+
+    section.ergon__products .power__converter h5 {
+width: 83%;
+    font-size: 20px;
+    bottom: -37px;
+    margin: 0 auto;
+    }
+    section.ergon__products .power__converter h5 span {
+    width: 295px !important;
+    display: inline-block;
+}
+
+    .center__figure {
+        margin-top: 30px;
+    }
+
+    .center__figure h5 {
+        width: 72%;
+        margin: 0;
+        font-size: 18px;
+        top: 17%;
+        position: absolute;
+        left: 26px;
+        right: 0px;
+        text-align: left;
+        z-index: 99;
+    }
+
+    section.ergon__products .specifications .grid {
+        margin-top: 0;
+        margin-bottom: 40px;
+    }
+
+    section.ergon__products .row.align-items-center {
+        flex-direction: column-reverse;
+    }
+
+    section.ergon__products .specifications .spec .title {
+        width: 100%;
+        padding-left: 20px;
+    }
+
+    section.ergon__products .specifications .spec p {
+        width: 100%;
+        padding-left: 20px;
+        font-size: 24px;
+    }
+
+    .figure2 img {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    section.ergon__products .grid__item {
+        opacity: 1;
+        height: auto;
+        padding-bottom: 30px;
+    }
+
+    section.ergon__products .product__grids {
+        display: flex;
+        width: 100%;
+        margin: 0 auto;
+        padding: 37px;
+    }
+
+    section.ergon__products .product__grids h2 {
+        font-size: 35px;
+    }
+
+    footer.ergon__footer {
+        padding: 53px 28px;
+    }
+    footer.ergon__footer .row.align-items-end {
+        flex-direction: column-reverse;
+    }
+    footer.ergon__footer .col-md-4:last-child {
+        padding-left: 0;
+    }
+
+    footer.ergon__footer .col-md-4 .col-md-6 {
+        width: 48%;
+        justify-content: start !important;
+    }
+
+    .footer__links {
+        padding-top: 40px;
+    }
+
+    footer.ergon__footer .copyright {
+        padding: 0 0;
+    }
+
+    footer.ergon__footer p.address {
+        margin-top: 50px;
+    }
+
+    section.ergon__products .power__converter {
+        margin-bottom: 50px;
+    }
+
+    /* ABOUT */
+    section.ergon__inner-banner .banner__elements {
+        width: 90%;
+        justify-content: end;
+        height: 368px;
+        margin-bottom: 77px;
+    }
+
+    .sm-lg-banner {
+        height: 445px !important;
+    }
+
+    button.btn.btn-primary {
+        padding: 13px 25px;
+        font-size: 14px;
+    }
+
+    button.btn.btn-primary:focus {
+        padding: 13px 25px;
+        font-size: 14px;
+    }
+
+    button.btn.btn-modal-submit {
+        border-radius: 10px;
+        background: #FF5100;
+        color: #fff;
+        font-size: 12px;
+        width: 48%;
+        padding: 12px;
+    }
+
+    .btn-modal-cancel {
+        font-size: 12px;
+        padding: 12px;
+    }
+
+    section.ergon__inner-banner .banner__elements h1 {
+        font-size: 40px;
+        line-height: 44px;
+        letter-spacing: 0px;
+        text-align: center;
+
+    }
+
+    section.ergon__inner-banner .banner__elements p {
+        font-size: 18px;
+        line-height: 30px;
+        letter-spacing: 0px;
+        color: rgba(193, 192, 180, 1);
+        text-align: center;
+
+    }
+
+    .about__journey .details h2 {
+        font-size: 36px;
+        margin-top: 0;
+    }
+
+    .about__journey .details p {
+        font-size: 16px;
+    }
+
+    .journey__sec img {
+        width: 100%;
+        height: fit-content;
+        object-position: top;
+        text-align: left;
+        object-fit: contain;
+        border-radius: 0px 0px 10px 10px;
+    }
+
+    .join__journey h5 {
+        font-size: 15px;
+    }
+
+    .join__journey h4 {
+        font-size: 29px;
+        line-height: 36px;
+        letter-spacing: -0.01em;
+        text-align: left;
+
+    }
+
+    .journey__sec .row.align-items-center {
+        flex-direction: column-reverse;
+    }
+
+    .journey__sec .row.align-items-center .col-md-6 {
+        width: 100%;
+    }
+    .journey__sec .details{
+        padding: 37px;
+    }
+    .journey__sec .details p {
+        color: #C1C0B4;
+        margin-bottom: 30px;
+        width: 100%;
+    }
+
+    .journey__sec {
+        border: 1px solid #FFFEF11A;
+        border-radius: 20px;
+        width: 90%;
+        margin: 0 auto;
+        padding: 0;
+    }
+
+    .hidden-sm {
+        display: none;
+    }
+
+    .join__journey h5 {
+        width: 100%;
+    }
+
+    .investors__section h2 {
+        font-size: 32px;
+        padding-bottom: 20px;
+        color: #fffef1;
+        width: 100%;
+    }
+
+    .sm-w-95 {
+        width: 85%;
+        margin: 0 auto;
+        margin-top: 55px;
+    }
+
+    .investors__section {
+        padding: 37px;
+    }
+
+    .investors__section .col-md-4 {
+        padding: 0;
+    }
+
+    .investors__section .logo {
+        background-color: transparent;
+        margin: 0 10px;
+        margin-bottom: 30px;
+    }
+
+    .investors__section .logo img {
+        height: 40px;
+    }
+
+    section.ergon__about .about__contents p {
+        display: none;
+    }
+
+    section.ergon__about .about__contents h2 {
+        display: none;
+    }
+
+    .values__grids .values {
+        width: 95%;
+        margin: 0 auto;
+        margin-bottom: 25px;
+        border-radius: 25px;
+    }
+
+    .openings__section h2 {
+        font-weight: 600;
+        text-align: left;
+        font-size: 34px;
+        padding-bottom: 0px;
+        line-height: 1;
+    }
+
+    .openings__section {
+        padding: 37px;
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .border-section.career-section {
+        width: 95%;
+        margin: 0 auto;
+    }
+
+    .accordion-item {
+        background-color: transparent;
+    }
+
+    .banner__elements.blog-sm {
+        height: 300px !important;
+        padding-bottom: 0;
+        justify-content: end !important
+    }
+
+    section.ergon__blogs {
+        padding: 37px;
+        padding-top: 37px;
+        padding-bottom: 30px;
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .container.border-section.mt-0 {
+        width: 90%;
+    }
+
+    .banner__elements.blog-sm h1 {
+        padding-bottom: 30px !important;
+    }
+
+    section.ergon__blogs .blog__grid {
+        padding: 15px;
+        width: 100%;
+        margin: 0 auto;
+        
+    border-radius: 0 0 12px 12px;
+
+    }
+
+    .sm-reverse {
+        flex-direction: column-reverse;
+    }
+
+    section.ergon__blogs .blog__img {
+        width: 100% !important;
+        height: 250px;
+        margin: 0 auto;
+        border-radius: 0;
+    }
+
+    section.ergon__blogs .blog__img {
+        position: relative;
+        display: block;
+        overflow: hidden;
+        border-radius: 0;
+    }
+
+    section.ergon__blogs .blog__img img {
+        border-radius: 12px 12px 0 0px;
+        transition: 0.5s;
+        height: 260px;
+    }
+
+    section.ergon__blogs .blog__grid {
+        height: auto;
+    }
+
+    section.ergon__blogs .blog__grid h2 {
+        font-size: 22px;
+        line-height: 24px;
+        letter-spacing: 0em;
+        text-align: left;
+        font-weight: 600;
+        margin-bottom: 15px;
+
+    }
+
+    section.ergon__blogs .blog__grid p {
+        color: #C1C0B4;
+        width: 100%;
+        font-size: 14px;
+    }
+
+    section.blog__grids .blog__item {
+        width: 90%;
+        margin: 0 auto;
+        margin-bottom: 30px;
+    }
+
+    section.blog__details {
+        padding: 31px;
+        padding-top: 141px;
+        padding-bottom: 100px;
+    }
+
+    .blog__details .published {
+        display: block;
+    }
+
+    .blog__details .links {
+        margin-top: 30px;
+    }
+
+    .blog__details .links i {
+        color: #C1C0B4;
+    }
+
+    .blog__details .details p {
+        width: 100%;
+        font-size: 17px;
+        line-height: 24px;
+        letter-spacing: 0em;
+        color: rgba(193, 192, 180, 1);
+        text-align: left;
+
+    }
+
+    .admin div .user {
+        width: 100%;
+    }
+
+    .blog__details .details img.main-banner {
+        height: 221px;
+        object-fit: cover;
+        border-radius: 12px;
+        margin: 40px 0;
+        margin-top: 0;
+    }
+
+
+    .values__grids .values {
+        background-color: transparent;
+    }
+
+    section.blog__grids .blog__details {
+        padding: 15px;
+
+    }
+
+    section.blog__grids .blog__details h2 {
+        font-size: 22px;
+        line-height: 24px;
+        letter-spacing: 0em;
+        text-align: left;
+        font-weight: 600;
+        margin-bottom: 15px;
+        width: 100%;
+    }
+
+    section.blog__grids .blog__details p.main {
+        margin-bottom: 30px;
+        line-height: inherit;
+        color: #C1C0B4;
+        width: 100%;
+        font-size: 14px !important;
+    }
+
+    section.blog__details .details h2 {
+        font-size: 26px;
+        line-height: 28px;
+        letter-spacing: 0em;
+        text-align: left;
+
+    }
+}
+
+/* TABLET */
+
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+    canvas {
+        object-fit: contain !important;
+    }
+
+    #page,
+    #sectionGrid1,
+    #sectionGrid2,
+    #sectionGrid3 {
+        width: 100%;
+        text-align: left;
+    }
+
+    #page>p {
+        position: absolute;
+        top: 52%;
+        letter-spacing: -0.03em;
+        text-align: left;
+        margin-left: 35px;
+        width: 71%;
+        font-size: 24px;
+    }
+
+    .col-tab-12 {
+        width: 100%;
+    }
+
+
+    #page>h1 {
+        position: absolute;
+        top: 30%;
+        font-weight: 400;
+        color: #fff;
+        z-index: 99;
+        left: 0;
+        letter-spacing: -0.03em;
+        text-align: left;
+        font-weight: bold;
+        margin-left: 35px;
+        width: 80%;
+        font-size: 80px;
+    }
+
+    section.ergon__products .power__converter img {
+        width: 100%;
+    }
+
+    .center__figure img {
+        width: 100%;
+    }
+
+    section.ergon__products .power__converter h5 {
+        width: 66%;
+        margin: 0 auto;
+        font-size: 24px;
+        font-weight: 600;
+        bottom: 10%;
+    }
+
+    .center__figure h5 {
+        width: 62%;
+        font-size: 26px;
+        top: 16%;
+    }
+
+    section.ergon__products .specifications .spec p {
+        width: 60%;
+    }
+
+    section.ergon__products .specifications .grid {
+        margin-top: 0;
+    }
+
+    section.ergon__products .specifications .spec .title {
+        width: 100%;
+        margin-bottom: 0;
+    }
+
+    section.ergon__products .grid__item {
+        opacity: 1;
+        min-height: auto;
+    }
+
+    #page>h1 {
+        line-height: 1;
+    }
+
+    section.ergon__products .product__grids {
+        padding: 20px;
+        padding-top: 40px;
+    }
+
+    .values__grids .col-md-10 {
+        width: 100%;
+    }
+
+    .values__grids .values {
+        width: 100%;
+    }
+
+    .values__grids .values h6 {
+        width: 100%;
+    }
+
+    .col-tab-10 {
+        flex: 0 0 auto;
+        width: 83.33333333%;
+    }
+
+    section.blog__details .published {
+        padding-bottom: 10px;
+    }
+}
+
+/* IPAD PRO */
+
+@media only screen and (min-width: 1024px) and (max-width: 1200px) {
+
+    #page,
+    #sectionGrid1,
+    #sectionGrid2,
+    #sectionGrid3 {
+        width: 100%;
+        text-align: left;
+    }
+
+    #page>p {
+        position: absolute;
+        top: 49%;
+        letter-spacing: -0.03em;
+        text-align: left;
+        margin-left: 35px;
+        width: 71%;
+    }
+
+
+    section.ergon__blogs .blog__img img {
+        border-radius: 12px 12px 0 0;
+    }
+
+    #page>h1 {
+        position: absolute;
+        top: 30%;
+        font-weight: 400;
+        color: #fff;
+        z-index: 99;
+        left: 0;
+        letter-spacing: -0.03em;
+        text-align: left;
+        font-weight: bold;
+        margin-left: 35px;
+        width: 80%;
+        font-size: 80px;
+    }
+
+    section.ergon__products .power__converter img {
+        width: 100%;
+    }
+
+    .center__figure img {
+        width: 100%;
+    }
+
+    section.ergon__products .power__converter h5 {
+        width: 66%;
+        margin: 0 auto;
+        font-size: 33px;
+        font-weight: 600;
+        bottom: 10%;
+    }
+
+    .center__figure h5 {
+        width: 54%;
+        font-size: 30px;
+        top: 16%;
+    }
+
+    section.ergon__products .power__converter h1 {
+        font-size: 55px;
+    }
+
+    section.ergon__products .specifications .spec p {
+        width: 100%;
+    }
+
+    section.ergon__products .specifications .grid {
+        width: 66%;
+        margin: auto;
+    }
+
+    section.ergon__products .specifications .spec .title {
+        width: 100%;
+        margin-bottom: 0;
+    }
+
+    section.ergon__products .grid__item {
+        opacity: 1;
+        min-height: 350px;
+    }
+
+    section.ergon__products .product__grids {
+        padding: 80px;
+    }
+
+    .values__grids .col-md-10 {
+        width: 100%;
+    }
+
+    .values__grids .values {
+        width: 100%;
+    }
+
+    .col-tab-10 {
+        flex: 0 0 auto;
+        width: 83.33333333%;
+    }
+
+    section.blog__details .published {
+        padding-bottom: 10px;
+    }
+}
+
+
+
+
+
+/* 13 INCH SCREEN */
+@media only screen and (min-width: 800px) and (min-height: 1280px) {
+    section.ergon__products .specifications .spec {
+        margin: 0 53px;
+    }
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1400px) {
+    section.ergon__products .grid__item {
+        opacity: 1;
+        min-height: 310px;
+    }
+
+    .center__figure h5 {
+        padding-left: 58px;
+    }
+
+    section.ergon__products .power__converter {
+        padding-top: 22px;
+    }
+}
+
+@media only screen and (min-width: 1400px) and (max-width: 1600px) {
+    .center__figure h5 {
+        padding-left: 58px;
+    }
+
+    section.ergon__products .power__converter img {
+        width: 73%;
+    }
+}
+
+@media only screen and (min-width: 1400px) and (min-height: 890px) {
+    section.ergon__products .power__converter img {
+        width: 94%;
+    }
+    .content__grid.first_anim {
+        padding-top: 22%;
+    }
+}
+
+@media only screen and (min-width: 1600px) and (max-width: 1800px) {
+    .center__figure h5 {
+        padding-left: 58px;
+        font-size: 32px;
+    }
+}
+
+
+
+@media only screen and (min-width: 1200px) and (min-height: 720px) and (max-height : 800px) {
+    .header {
+        padding: 0;
+    }
+    section.ergon__products .specifications .grid {
+        width: 80%;
+        margin: auto;
+        padding-top: 16%;
+    }
+
+    
+}
+
+@media only screen and (min-width: 1366px) and (min-height: 768px) and (max-height : 800px) {
+    section.ergon__products .power__converter img {
+        width: 100%;
+    }
+    .content__grid h1 {
+        font-size: 66px;
+        line-height: 78px;
+    }
+    p#textMessg {
+        width: 76%;
+    }
+    .content__grid.first_anim {
+        width: 70% !important;
+    }
+    .content__grid p {
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 34px;
+    }
+}
+
+/*@media only screen and (min-width: 1200px) and (min-height: 730px) and (max-height : 750px) {*/
+/*    .content__grid.first_anim {*/
+/*        width: 56% !important;*/
+/*    }*/
+/*}*/
+
+
+@media only screen and (min-width: 768px) and (min-height: 1020px) and (max-height : 1100px) {
+    .content__grid h1 {
+        font-size: 68px;
+        line-height: 68px;
+    }
+
+    .content__grid>p {
+        font-size: 29px;
+        line-height: 38px;
+        width: 65%;
+        padding-top: 15px;
+    }
+    footer.ergon__footer .col-md-4 {
+        flex: 0 0 auto;
+        width: 100%;
+    }
+    footer.ergon__footer .col-md-8{
+        width: 100%;
+    }
+    footer.ergon__footer .justify-content-end{
+        justify-content: start !important;
+    }
+}
+
+
+
+/* MOBILE */
+
+@media only screen and (min-width: 1024px) and (max-width: 1200px) and (min-height: 600px) and (max-height : 800px) {
+    .content__grid h1 {
+        font-size: 72px;
+        line-height: 79px;
+    }
+
+    p#textMessg {
+        width: 88%;
+    }
+
+    section.ergon__products .power__converter {
+        padding-top: 55px;
+    }
+
+    section.ergon__products .power__converter img {
+        width: 78%;
+    }
+
+    section.ergon__products .grid__item {
+        height: 332px;
+    }
+}
+
+@media only screen and (min-width: 1280px) and (max-width: 1300px) and (min-height: 700px) and (max-height : 800px) {
+    section.ergon__products .power__converter img {
+        width: 100%;
+    }
+}
+@media only screen and (min-width: 1280px) and (max-width: 1300px) and (min-height: 500px) and (max-height : 700px) {
+    section.ergon__products .power__converter img {
+        width: 68%;
+    }
+    section.ergon__products .power__converter h5 {
+        width: 53%;
+    }
+    .figure2 img {
+        width: 65%;
+        margin: 0 auto;
+    }  
+    .content__grid h1 {
+        font-size: 60px;
+        line-height: 69px;
+    }
+    .banner__grid {
+        height: 600px;
+    }
+    .content__grid p {
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .content__grid.first_anim{
+        width: 60%;
+    }
+    
+      
+}
+@media only screen and (min-width: 1680px) and (max-width: 1700px) and (min-height: 1040px) and (max-height : 1100px) {
+    .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+        max-width: 1490px;
+    }
+    .content__grid h1 {
+        font-size: 96px;
+        line-height: 1;
+    }
+
+    .content__grid.first_anim {
+        padding-top: 26%;
+    }
+
+    .content__grid>p {
+        font-size: 33px;
+        line-height: 1.2;
+        width: 100%;
+    }
+
+    p#textMessg {
+        width: 70%;
+    }
+}
+
+
+@media only screen and (min-width: 1920px) and (min-height: 1080px) and (max-height : 1200px) {
+
+    .container,
+    .container-lg,
+    .container-md,
+    .container-sm,
+    .container-xl,
+    .container-xxl {
+        max-width: 1670px;
+    }
+
+    .content__grid.first_anim {
+        padding-top: 25%;
+    }
+
+    .center__figure h5 {
+        padding-left: 58px;
+        font-size: 32px;
+    }
+
+    section.ergon__products .power__converter h5 {
+        width: 61%;
+        margin: 0 auto;
+        font-size: 42px;
+    }
+    .content__grid h1 {
+        font-size: 113px;
+        line-height: 1.1;
+    }
+    .content__grid.first_anim {
+        padding-top: 20%;
+    }
+    .content__grid>p {
+        font-size: 37px;
+        line-height: 47px;
+        width: 77%;
+    }
+    section.ergon__products .power__converter h1{
+        font-size: 94px;
+    }
+    .center__figure h5 {
+        font-size: 42px;
+    }
+    section.ergon__products .specifications .spec p{
+        font-size: 42px;
+    }
+    section.ergon__products .specifications .spec h3 {
+        font-size: 70px;
+    }
+    section.ergon__products .specifications .spec .title span {
+        font-size: 28px;
+    }
+    section.ergon__products .power__converter img {
+        width: 100%;
+    }
+}
+
+@media only screen and (min-width: 2545px) and (min-height: 1355px) and (max-height : 1400px) {
+    .container,
+    .container-lg,
+    .container-md,
+    .container-sm,
+    .container-xl,
+    .container-xxl {
+        max-width: 2200px;
+    } 
+    .values__grids .values{
+        min-height: 150px;
+    }
+    section.ergon__products .specifications .grid {
+        margin-top: 15%;
+    }  
+    section.ergon__inner-banner .banner__elements p {
+        width: 70%;
+    }
+    .join__journey h5 {
+        width: 35%;
+    }
+    .content__grid h1 {
+        font-weight: bold;
+        font-size: 150px;
+        line-height: 146px;
+    }
+    .content__grid p {
+        font-weight: 500;
+        font-size: 48px;
+        line-height: 1.2;
+    }
+    section.ergon__products .power__converter h1{
+        font-size: 120px;
+    }
+    section.ergon__products .power__converter p{
+        font-size: 48px;
+    }
+    section.ergon__products .power__converter h5 {
+    width: 45%;
+    font-size: 53px;
+    }
+    .center__figure h5{
+        font-size: 53px;
+        /* left: 5%; */
+    }
+    section.ergon__products .specifications .spec p{
+        font-size: 48px;
+        line-height: 1.2;
+    }
+    section.ergon__products .specifications .spec h3{
+        font-size: 68px;
+    }
+    section.ergon__products .specifications .spec .title span{
+        font-size: 38px;
+    }
+    section.ergon__products .product__grids h2{
+        font-size: 56px;
+    }
+    section.ergon__products .grid__item h4{
+        font-size: 26px;
+    }
+    section.ergon__products .grid__item p {
+        font-weight: 500;
+        font-size: 28px;
+    }
+    section.ergon__products .grid__item{
+        height: 350px;
+    }
+}
+
+@media only screen and (min-width: 2560px) and (min-height: 1440px) and (max-height : 1500px) {
+    .container,
+    .container-lg,
+    .container-md,
+    .container-sm,
+    .container-xl,
+    .container-xxl {
+        max-width: 2200px;
+    }   
+    .content__grid h1 {
+        font-weight: bold;
+        font-size: 150px;
+        line-height: 146px;
+    }
+    .content__grid p {
+        font-weight: 500;
+        font-size: 48px;
+        line-height: 1.2;
+    }
+    section.ergon__products .power__converter h1{
+        font-size: 120px;
+    }
+    section.ergon__products .power__converter p{
+        font-size: 48px;
+    }
+    section.ergon__products .power__converter h5 {
+    width: 45%;
+    font-size: 53px;
+    }
+    .center__figure h5{
+        font-size: 53px;
+        /* left: 5%; */
+    }
+    section.ergon__products .specifications .spec p{
+        font-size: 48px;
+        line-height: 1.2;
+    }
+    section.ergon__products .specifications .spec h3{
+        font-size: 68px;
+    }
+    section.ergon__products .specifications .spec .title span{
+        font-size: 38px;
+    }
+    section.ergon__products .product__grids h2{
+        font-size: 56px;
+    }
+    section.ergon__products .grid__item h4{
+        font-size: 26px;
+    }
+    section.ergon__products .grid__item p {
+        font-weight: 500;
+        font-size: 28px;
+    }
+    section.ergon__products .grid__item{
+        height: 350px;
+    }
+}
+
+@media only screen and (min-width: 1024px) and (max-width: 1100px) and (min-height: 1366px) and (max-height : 1400px) {
+    .content__grid.first_anim {
+        width: 95%;
+    }
+    .content__grid.first_anim{
+        padding-top: 50%;
+    }
+    section.ergon__products .specifications .grid{
+        width: 100%;
+    }
+}
+
+@media only screen and (min-width: 600px) and (max-width: 700px) and (min-height: 1024px) and (max-height : 1100px) {
+    .content__grid h1 {
+        font-size: 54px;
+        line-height: 54px;
+    }
+    .content__grid>p {
+        font-size: 22px;
+        line-height: 29px;
+    }
+    .center__figure h5 {
+        width: 52%;
+        margin: 0;
+        font-size: 20px;
+    }
+    .col-tab-12 {
+        width: 50%;
+    }
+
+}
+@media only screen and (min-width: 990px) and (max-width: 1000px) and (min-height: 1280px) and (max-height : 1300px) {
+    .container, .container-md, .container-sm {
+        max-width: 800px;
+    }
+    .content__grid h1 {
+        font-weight: bold;
+        font-size: 82px;
+        line-height: 80px;
+    }
+    .content__grid.first_anim {
+        width: 90%;
+    }
+    .content__grid.first_anim {
+        padding-top: 50%;
+    }
+    p#textMessg {
+        width: 80%;
+    }
+    .col-tab-12 {
+        width: 50%;
+    }
+    section.ergon__products .specifications .spec {
+        margin: 0 16px;
+    }
+    .about__journey .details p{
+        width: 95%;
+    }
+}
+@media only screen and (min-width: 414px) and (max-width: 490px) and (min-height: 896px) and (max-height : 900px) {
+    .content__grid>p{
+        width: 80%;
+    }
+}
+
+
+@media only screen and (min-width: 2240px) and (min-height: 1240px) and (max-height : 1300px) {
+    .content__grid.first_anim {
+        width: 57%;
+    }
+    .join__journey h5 {
+        width: 38%;
+    }
+    .container,
+    .container-lg,
+    .container-md,
+    .container-sm,
+    .container-xl,
+    .container-xxl {
+        max-width: 2000px;
+    }
+    section.ergon__products .specifications .grid{
+        padding-top: 15%;
+    }
+    section.ergon__inner-banner .banner__elements p {
+        width: 80%;
+    }
+    .content__grid.first_anim {
+        padding-top: 25%;
+    }
+
+    .center__figure h5 {
+        padding-left: 58px;
+        font-size: 32px;
+    }
+
+    section.ergon__products .power__converter h5 {
+        width: 61%;
+        margin: 0 auto;
+        font-size: 42px;
+    }
+    .content__grid h1 {
+        font-size: 113px;
+        line-height: 1.1;
+    }
+    .content__grid.first_anim {
+        padding-top: 20%;
+    }
+    .content__grid>p {
+        font-size: 37px;
+        line-height: 47px;
+        width: 77%;
+    }
+    section.ergon__products .power__converter h1{
+        font-size: 94px;
+    }
+    .center__figure h5 {
+        font-size: 42px;
+    }
+    section.ergon__products .specifications .spec p{
+        font-size: 42px;
+    }
+    section.ergon__products .specifications .spec h3 {
+        font-size: 70px;
+    }
+    section.ergon__products .specifications .spec .title span {
+        font-size: 28px;
+    }
+    section.ergon__products .power__converter img {
+        width: 100%;
+    }
+}
+
+@media only screen and (min-width: 320px) and (max-width: 330px) and (min-height: 560px) and (max-height : 570px) {
+    p#textMessg {
+        width: 92%;
+    }
+    .content__grid h1 {
+        font-size: 30px;
+        line-height: 37px;
+    }
+    .content__grid>p {
+        font-size: 15px;
+        line-height: 23px;
+    }
+}
+
+@media only screen and (min-width: 2240px) and (min-height: 1070px) and (max-height : 1100px) {
+    .content__grid.first_anim {
+        width: 57%;
+    }
+    .center__figure img {
+        width: 85%;
+        margin-left: 0;
+    }
+    footer.ergon__footer .col-md-8 {
+        width: 70%;
+    }
+
+    footer.ergon__footer .col-md-4 {
+        width: 30%;
+    }
+    .join__journey h5 {
+        width: 38%;
+    }
+    .container,
+    .container-lg,
+    .container-md,
+    .container-sm,
+    .container-xl,
+    .container-xxl {
+        max-width: 2000px;
+    }
+    section.ergon__products .specifications .grid{
+        padding-top: 15%;
+    }
+    section.ergon__inner-banner .banner__elements p {
+        width: 80%;
+    }
+    .content__grid.first_anim {
+        padding-top: 25%;
+    }
+
+    .center__figure h5 {
+        padding-left: 58px;
+        font-size: 32px;
+    }
+
+    section.ergon__products .power__converter h5 {
+        width: 61%;
+        margin: 0 auto;
+        font-size: 42px;
+    }
+    .content__grid h1 {
+        font-size: 113px;
+        line-height: 1.1;
+    }
+    .content__grid.first_anim {
+        padding-top: 20%;
+    }
+    .content__grid>p {
+        font-size: 37px;
+        line-height: 47px;
+        width: 77%;
+    }
+    section.ergon__products .power__converter h1{
+        font-size: 94px;
+    }
+    .center__figure h5 {
+        font-size: 42px;
+    }
+    section.ergon__products .specifications .spec p{
+        font-size: 42px;
+    }
+    section.ergon__products .specifications .spec h3 {
+        font-size: 70px;
+    }
+    section.ergon__products .specifications .spec .title span {
+        font-size: 28px;
+    }
+    section.ergon__products .power__converter img {
+        width: 80%;
+    }
+    .figure2 img {
+        width: 65%;
+    }
+}
+
+@media only screen and (min-width: 1920px) and (min-height: 1070px) and (max-height : 1100px) {
+    footer.ergon__footer .col-md-8 {
+        width: 70%;
+    }
+
+    footer.ergon__footer .col-md-4 {
+        width: 30%;
+    }
+}
+
+@media only screen and (min-width: 1680px) and (min-height: 1050px) and (max-height : 1100px) {
+    footer.ergon__footer .col-md-8 {
+        width: 70%;
+    }
+
+    footer.ergon__footer .col-md-4 {
+        width: 30%;
+    }
+}
+
+@media only screen and (min-width: 1366px) and (min-height: 1000px) and (max-height : 1050px) {
+    footer.ergon__footer .col-md-4 {
+        width: 30%;
+    }
+    footer.ergon__footer .col-md-8 {
+        width: 68%;
+    }
+    footer.ergon__footer .justify-content-end {
+        justify-content: end !important;
+    }
+}
